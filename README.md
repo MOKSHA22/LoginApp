@@ -1,6 +1,6 @@
 # loginapp
 
-Login and Registration
+Login page
 
 ## Getting Started
 
